@@ -15,7 +15,7 @@
 
 .header__logo {
   /* Устанавливается фоновое изображение для логотипа */
-  background-image: url("/images/logoIcon.svg");
+  background-image: url("../images/logoIcon.svg");
   background-repeat: no-repeat;
   /* Фоновое изображение растягивается, чтобы поместиться по размеру блока */
   background-size: contain;
@@ -52,7 +52,7 @@
   display: none;
   
   /* Фоновое изображение для иконки меню */
-  background-image: url("/images/menuIcon.svg");
+  background-image: url("../images/menuIcon.svg");
   background-repeat: no-repeat;
   background-size: contain;
   width: 30px;
