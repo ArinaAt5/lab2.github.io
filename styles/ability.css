@@ -30,7 +30,7 @@
 }
 
 .ability__arrow {
-  background-image: url("/images/arrowIcon.svg");
+  background-image: url("../images/arrowIcon.svg");
   background-repeat: no-repeat;
   background-size: contain;
   min-width: 105px;
