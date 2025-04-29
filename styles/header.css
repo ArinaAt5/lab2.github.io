@@ -15,7 +15,7 @@
 
 .header__logo {
   /* Устанавливается фоновое изображение для логотипа */
-  background-image: url("../images/logoIcon.svg");
+  background-image: url("https://github.com/ArinaAt5/lab2.github.io/tree/main/styles/images/logoIcon.svg");
   background-repeat: no-repeat;
   /* Фоновое изображение растягивается, чтобы поместиться по размеру блока */
   background-size: contain;
@@ -52,7 +52,7 @@
   display: none;
   
   /* Фоновое изображение для иконки меню */
-  background-image: url("../images/menuIcon.svg");
+  background-image: url("https://github.com/ArinaAt5/lab2.github.io/tree/main/styles/images/menuIcon.svg");
   background-repeat: no-repeat;
   background-size: contain;
   width: 30px;
@@ -62,7 +62,7 @@
 /* Иконка (например, поиск или другие иконки) */
 .header__icon {
   /* Фоновое изображение для иконки */
-  background-image: url("/images/icons.svg");
+  background-image: url("https://github.com/ArinaAt5/lab2.github.io/tree/main/styles/images/icons.svg");
   background-repeat: no-repeat;
   
   /* Фоновое изображение растягивается по размеру блока */
