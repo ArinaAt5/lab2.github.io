@@ -28,7 +28,7 @@
 }
 
 .description__image {
-  background-image: url("https://github.com/ArinaAt5/lab2.github.io/tree/main/styles/images/descriptionImage.svg");
+  background-image: url("../images/descriptionImage.svg");
   background-repeat: no-repeat;
   background-size: contain;
   width: 127px;
